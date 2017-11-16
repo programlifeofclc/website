@@ -11,5 +11,6 @@
   	<module>itjee-info-model</module>
   	<module>itjee-common</module>
   	<module>itjee-info-dao</module>
+  	
   </modules>
 </project>
