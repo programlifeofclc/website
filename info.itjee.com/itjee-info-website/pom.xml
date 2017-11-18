@@ -4,6 +4,7 @@
     <groupId>itjee</groupId>
     <artifactId>info.itjee.com</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
   </parent>
   <artifactId>itjee-info-website</artifactId>
   <packaging>war</packaging>
