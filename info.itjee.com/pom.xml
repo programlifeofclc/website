@@ -16,6 +16,7 @@
   	<module>itjee-dubbo-interfaces</module>
   	<module>itjee-dubbo-services</module>
   	<module>itjee-info-models</module>
+  	
   	<module>itjee-info-website</module>
   	
   </modules>
